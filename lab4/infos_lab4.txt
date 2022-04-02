@@ -1,6 +1,0 @@
-https://dados-vacinas-fsousa.s3.amazonaws.com/part-00000-ac297e25-1037-4cbd-9bc8-222e8f43bfe0.c000.csv
-
-52.204.115.13
-
-b91953b1f9544569969e2f0a59041e6c
-Essa é a senha do administrador. Quando acessar o Jenkins novamente, será solicitado o usuário e senha. Utilize o usuário “admin” e a senha que acabou de copiar
